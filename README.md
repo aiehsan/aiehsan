@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on my degree in Software Engineering.
+- 🌱 I’m currently learning C++ at MCC. 
 <!--
 **aiehsan/aiehsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
